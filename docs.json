@@ -22,10 +22,9 @@
     "directory": "card",
     "groups": [
       {
-        "group": "Event Types",
+        "group": "Activate Ring Jenny",
         "pages": [
-          "event-types/event-setup",
-          "event-types/limits"
+          "ringjenny/set-up-call-forwarding"
         ]
       }
     ]
